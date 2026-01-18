@@ -1,9 +1,7 @@
-# --- Ignore massive backup files ---
-FR/kaggle_upload/
-*.tar.gz
-*.zip
-
-# --- Ignore Trash ---
+# --- STRICTLY IGNORE THESE 4 DATASETS & TRASH ---
+FR/ptb-xl/
+FR/Chapman_Full_Raw/
+FR/PF12RED_Raw/
 Trash/
 */Trash/
 
@@ -11,9 +9,5 @@ Trash/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
-*.keras
-*.h5
 
-# --- Ignore large datasets (just in case) ---
-FR/ptb-xl/
-FR/Chapman_Full_Raw/
+# (Everything else like .keras, .zip, .h5 is now ALLOWED)
