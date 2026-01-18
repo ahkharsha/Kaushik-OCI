@@ -1,0 +1,21 @@
+
+# Ignore massive datasets
+
+Chapman_Full_Raw/
+
+ptb-xl/
+
+PF12RED_Raw/
+
+Trash/
+
+
+
+# Ignore system files
+
+.ipynb_checkpoints/
+
+__pycache__/
+
+*.pyc
+

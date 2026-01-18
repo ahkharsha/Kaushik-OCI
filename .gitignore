@@ -1,0 +1,19 @@
+# --- Ignore massive backup files ---
+FR/kaggle_upload/
+*.tar.gz
+*.zip
+
+# --- Ignore Trash ---
+Trash/
+*/Trash/
+
+# --- Ignore System Files ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.keras
+*.h5
+
+# --- Ignore large datasets (just in case) ---
+FR/ptb-xl/
+FR/Chapman_Full_Raw/
