@@ -1,0 +1,10 @@
+# --- Big Datasets (Do Not Track) ---
+Chapman_Full_Raw/
+ptb-xl/
+PF12RED_Raw/
+Trash/
+
+# --- System & Cache Files ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
