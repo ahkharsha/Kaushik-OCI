@@ -1,7 +1,6 @@
-# --- STRICTLY IGNORE THESE 4 DATASETS & TRASH ---
+# --- STRICTLY IGNORE THESE 2 DATASETS & TRASH ---
 FR/ptb-xl/
 FR/Chapman_Full_Raw/
-FR/PF12RED_Raw/
 Trash/
 */Trash/
 
@@ -10,4 +9,4 @@ Trash/
 __pycache__/
 *.pyc
 
-# (Everything else like .keras, .zip, .h5 is now ALLOWED)
+# (PF12RED_Raw is now allowed)
